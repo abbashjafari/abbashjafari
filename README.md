@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9A7&height=220&section=header&text=Abbas%20Houri%20Jafari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20QA%20Engineer%20%7C%20SDET&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-# Abbas Houri Jafari
+# Abbas Jafari
 
 ### Senior QA Engineer | SDET | Test Automation
 
